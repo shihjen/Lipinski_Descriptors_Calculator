@@ -53,10 +53,9 @@ The rule states that poor absorption, permeation or distribution is more likely 
   
 </table>
 
+## 
 
 ### 🟧 Exceptions & Limitations
----
-
 It's important to note that Lipinski's Rule of Five is a guideline, not an absolute rule. There are many exceptions, and some drugs that violate the rule are still orally bioavailable. Some limitations include:
 
 :x: **Active Transport:** The rule does not account for active transport mechanisms, which can facilitate the absorption of larger, more polar molecules.
@@ -67,20 +66,18 @@ It's important to note that Lipinski's Rule of Five is a guideline, not an absol
 
 :x: **Beyond Oral Bioavailability:** The rule primarily focuses on oral bioavailability and does not consider other aspects of drug development, such as toxicity, metabolism, and target affinity.
 
+##
 
 ### 🟧 Application In Drug Discovery
----
-
 Lipinski's Rule of Five is a valuable tool in the early stages of drug discovery. 
 It helps medicinal chemists prioritize compounds that are more likely to be orally bioavailable, 
 reducing the risk of wasting resources on compounds that are unlikely to succeed in clinical trials. 
 By considering these parameters, researchers can design and select compounds with a higher probability of becoming successful drugs.
 
-### 🟧 Interactive Web Application with Streamlit
----
+## 
 
+### 🟧 Interactive Web Application
 This project includes a Streamlit-based web application that allows users to interactively compute Lipinski's Rule of Five descriptors from SMILES strings — no coding required.
-
 Users can:
 
 1️⃣ Upload a .csv file containing SMILES data
@@ -89,7 +86,7 @@ Users can:
 
 3️⃣ Download the processed results
 
+## 
 
 ### 🟧 Try It Out:
----
 <div>⏩ <a href = "https://shihjen-lipinski-descriptors-calculator-app-fkay2n.streamlit.app/">Web Application</a></div>
