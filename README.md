@@ -90,6 +90,6 @@ Users can:
 3️⃣ Download the processed results
 
 
-### 🟧 Try it out on Streamlit Cloud:
+### 🟧 Try It Out:
 ---
 <div>⏩ <a href = "https://shihjen-lipinski-descriptors-calculator-app-fkay2n.streamlit.app/">Web Application</a></div>
